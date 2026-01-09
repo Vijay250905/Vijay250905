@@ -9,6 +9,8 @@
 - C, Go, Java, Python
 - REST APIs
 - Linux, Git
+- IOT specialist
+- Backend Developer
 
 ## 📈 Currently Learning
 - Advanced Go
