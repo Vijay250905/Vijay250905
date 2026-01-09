@@ -10,7 +10,6 @@
 - REST APIs
 - Linux, Git
 - IOT specialist 🐦‍🔥🔥🔥🔥
-- Handwritting from chinna vayasuuuuuuuuu
 - Backend Developer
 
 ## 📈 Currently Learning
